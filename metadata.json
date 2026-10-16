@@ -1,0 +1,6 @@
+{
+  "name": "JUICE - Music Experience",
+  "description": "An ultra-stylish high-fidelity music streaming platform and interactive audio visualizer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
